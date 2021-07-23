@@ -6,5 +6,17 @@ Depth Estimation, Stereo Images, Encoder-Decoder Architecture,Attention for CNNs
 
 # Results and Discussions
 
-## CityScapes Dataset
+## 1. RGB+D Scene Dataset
+![image](https://user-images.githubusercontent.com/56618776/126770089-aebeeaa1-271f-4c0d-aea5-6f7de7cbd411.png)
+![image](https://user-images.githubusercontent.com/56618776/126770151-c347ffa8-1edb-4d39-8649-08a3264347af.png)
+
+## 2. CityScapes Dataset
 ![image](https://user-images.githubusercontent.com/56618776/126769709-32179923-5766-4be8-8714-c3460c5d1803.png)
+![image](https://user-images.githubusercontent.com/56618776/126769831-5f51ade6-e9aa-4c1f-91b5-4c54f93dbe96.png)
+
+## 3. KITTI Dataset
+![image](https://user-images.githubusercontent.com/56618776/126769919-8736d48f-6817-4cd9-b53a-ac2527246d2e.png)
+![image](https://user-images.githubusercontent.com/56618776/126769964-a7122d7d-e6ff-488e-aa30-df273f975ca9.png)
+
+
+
